@@ -11,6 +11,10 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 # Iris Virginica:-
 
+![iris versicolor](https://user-images.githubusercontent.com/39646018/52129588-e0fcf900-265d-11e9-9309-8a49e095de2b.jpg)
 
 # Iris Versicolor:-
 
+![iris virginica](https://user-images.githubusercontent.com/39646018/52129601-e65a4380-265d-11e9-89a2-95d435d557d0.jpg)
+
+The analysis is in the (Iris flower using SVM.ipynb) file and is explained throughout in the notebook.
